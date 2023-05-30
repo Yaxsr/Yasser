@@ -17,7 +17,7 @@ const server = http.createServer((req, res) => {
   }
 });
 
-console.log('Nama: Muhamad Rizky Herlambang Walangadi\nNIM:210211060060\nTIK1032-F')
+
 
 server.listen(4000, () => {
   console.log('Server running at http://localhost:4000/?radius=5');
